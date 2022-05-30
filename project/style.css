@@ -13,18 +13,7 @@ body {
     height: 100vh;
 }
 
-
-
-/* @media (max-width: 375px) {
-    body {
-      
-    }
-  } */
-
-  @media (max-width: 1440px) {
-    body {
-      
-    }
+@media (max-width: 1440px) {
 
     #caixa-maior {
         height: 100%;
@@ -81,3 +70,4 @@ body {
         cursor: pointer;
     }
   }
+
